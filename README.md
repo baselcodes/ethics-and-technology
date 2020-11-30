@@ -1,3 +1,3 @@
-# ethics-and-technology
+# Ethics && Technology
 
 Some update
