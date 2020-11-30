@@ -1,3 +1,3 @@
 # Ethics && Technology
 
-Some update
+* [Meeting Notes](./Meetings/)
