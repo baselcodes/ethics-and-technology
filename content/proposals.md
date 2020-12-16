@@ -12,4 +12,5 @@
 ### Yann
 * History of Labour Documentary on Arte
 * Ariana Dongus KIM – Lecture
+* Solveig Suess - Digital Belt Road (We could invite her for a talk)
 * [The cleaners](https://www.bpb.de/mediathek/273199/the-cleaners)
