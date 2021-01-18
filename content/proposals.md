@@ -1,3 +1,17 @@
+# Propsals for E&T
+
+## What a proposal needs:
+* Format: Screening, Workshop, Discussion?
+* Date
+* Title / Topic
+* Place
+* Responsibility
+* Supporting People (Name and What)
+* Short Description
+* Can your event happen with Corona?
+* Are there any costs? If yes, how much? Rights, allowances?
+
+
 ## Max
 * [digitale gesellschaft](https://www.digitale-gesellschaft.ch/slides/master-workshops.html#/)
 * «Überwacht 7 Mrd. Menschen im Visier», Arte documentary, 2020
