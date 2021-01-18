@@ -1,1 +1,7 @@
-{}
+{
+  "custom-field": "This is the custom field",
+  "custom-object": {
+    "custom-line": "This is the custom line",
+    "custom-text": "This is the custom text"
+  }
+}
