@@ -12,9 +12,31 @@
 * Are there any costs? If yes, how much? Rights, allowances?
 
 
-## Max
-* [digitale gesellschaft](https://www.digitale-gesellschaft.ch/slides/master-workshops.html#/)
-* «Überwacht 7 Mrd. Menschen im Visier», Arte documentary, 2020
+## Ethics & Technology Vol. ? «Surveillance»
+
+#### Ethics & Technology Vol. ? – Surveillance (Part 1)
+
+* Title/Topic: Ethics & Technology Vol. ? – Surveillance (Part 1)
+* Format: Screening of  «Überwacht 7 Mrd. Menschen im Visier», Arte documentary, 2020
+* Date: TBD (probably April / Mai)
+* Place: Neues Kino Basel
+* Responsibility: Max
+* Supporting People: TBD
+* Costs: Movie License 100 EUR
+
+#### Ethics & Technology Vol. ? – Surveillance (Part 2)
+
+* Title/Topic: Ethics & Technology Vol. ? – Surveillance (Part 2)
+* Format: Workshop w/ [digitale gesellschaft](https://www.digitale-gesellschaft.ch/slides/master-workshops.html#/)
+* Date: TBD (probably April / Mai)
+* Place: TBD, maybe The Garage
+* Responsibility: Max
+* Supporting People: TBD
+* Costs: Movie License 100 EUR
+
+
+#### Other notable movies for screenings
+
 * Dragonfly Eyes (2017), Xu Bing
 * Lettre du Voyant (2013), Louis Henderson
 * Sakawa (2018), Ben Asamoah
